@@ -1,6 +1,6 @@
 # The Redux Store
 
-A simple web application built with React and Redux, where users can log in with a username and password to access a mock banking dashboard. The dashboard includes actions such as deposit, withdraw, request loan, and pay loan, with real-time updates on the user's balance. This project showcases how Redux and Redux Toolkit are used for state management, handling asynchronous actions, and updating the UI based on user interactions.
+A (simple web application)[https://adhamhamed.github.io/Redux-Store/] built with React and Redux, where users can log in with a username and password to access a mock banking dashboard. The dashboard includes actions such as deposit, withdraw, request loan, and pay loan, with real-time updates on the user's balance. This project showcases how Redux and Redux Toolkit are used for state management, handling asynchronous actions, and updating the UI based on user interactions.
 
 ## Features
 - Simple login page (username and password).
