@@ -10,7 +10,7 @@ A simple web application built with React and Redux, where users can log in with
 ## Skills Demonstrated
 ### 1. Redux State Management
 - The app uses Redux to manage global state for the user balance and financial transactions.
--- Redux Toolkit's createSlice is used to create slices for handling login and account actions.
+- Redux Toolkit's createSlice is used to create slices for handling login and account actions.
 
 ### 2. Asynchronous Actions with Thunks
 - Redux Toolkit’s createAsyncThunk is used to handle asynchronous logic, such as simulating the loan request process or transactions that might require server communication.
